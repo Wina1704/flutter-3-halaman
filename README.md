@@ -29,7 +29,11 @@ Aplikasi ini berisi 3 halaman, yaitu:
 
 ## Penjelasan Tiap Halaman:
 - *Halaman Counter:* ...
-- *Halaman API:* ...
+- *Halaman API:* ...Halaman ini memiliki fitur utama berupa penghitung angka yang bisa dinaikkan atau diturunkan dengan tombol "+" dan "-". Angka yang sedang ditampilkan saat ini adalah 3.
+Di bagian bawah terdapat navigasi tab dengan tiga menu:
+    - Utama (halaman aktif sekarang),
+    - Hari Libur,
+    - Profil.
 - *Halaman Profil:* ...
 
 ## Cara Menjalankan Aplikasi:
