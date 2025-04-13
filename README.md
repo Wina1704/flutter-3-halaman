@@ -1,5 +1,8 @@
 # Aplikasi Flutter 3 Halaman - Kelompok 6
 
+## Pendahuluan
+Flutter merupakan framework open-source yang dikembangkan oleh Google, memungkinkan programmer untuk membuat aplikasi antar platform dengan efisien dan tampilan menarik. Project ini bertujuan untuk membangun aplikasi Flutter sederhana yang terdiri dari tiga halaman utama: halaman counter, halaman penampilan data dari REST API yang menggunakan (API), dan halaman profil kelompok.
+
 ## Anggota Kelompok:
 - Nama: Raja Walidain (4522210013)
 - Nama: Putri Juliani (4522210015)
