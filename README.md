@@ -28,8 +28,8 @@ Aplikasi ini berisi 3 halaman, yaitu:
 
 
 ## Penjelasan Tiap Halaman:
-- *Halaman Counter:* ...
-- *Halaman API:* ...Halaman ini memiliki fitur utama berupa penghitung angka yang bisa dinaikkan atau diturunkan dengan tombol "+" dan "-". Angka yang sedang ditampilkan saat ini adalah 3.
+- *Halaman Counter:* Halaman Hari Libur: Halaman ini menampilkan daftar hari libur nasional Indonesia tahun 2025. Setiap entri mencakup tanggal dan keterangan mengenai jenis hari libur, seperti "Tahun Baru Masehi", "Wafat Isa Almasih", dan "Hari Ulang Tahun Kemerdekaan". 
+- *Halaman API:* Halaman ini memiliki fitur utama berupa penghitung angka yang bisa dinaikkan atau diturunkan dengan tombol "+" dan "-". Angka yang sedang ditampilkan saat ini adalah 3.
 Di bagian bawah terdapat navigasi tab dengan tiga menu:
     - Utama (halaman aktif sekarang),
     - Hari Libur,
