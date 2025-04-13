@@ -1,9 +1,10 @@
-# Aplikasi Flutter 3 Halaman - Kelompok 6
+# Aplikasi Flutter Multi-Halaman dengan Fitur Counter, REST API, dan Profil Timn
 
 ## Pendahuluan
 Flutter merupakan framework open-source yang dikembangkan oleh Google, memungkinkan programmer untuk membuat aplikasi antar platform dengan efisien dan tampilan menarik. Project ini bertujuan untuk membangun aplikasi Flutter sederhana yang terdiri dari tiga halaman utama: halaman counter, halaman penampilan data dari REST API yang menggunakan (API), dan halaman profil kelompok.
 
 ## Anggota Kelompok:
+Kelompok 6
 - Nama: Raja Walidain (4522210013)
 - Nama: Putri Juliani (4522210015)
 - Nama: Wina Windari (4522210017)
@@ -16,20 +17,23 @@ Aplikasi ini berisi 3 halaman, yaitu:
 
 ## Screenshot Halaman:
 ### Halaman Counter
-![WhatsApp Image 2025-04-13 at 22 27 59_4b74f8b4](https://github.com/user-attachments/assets/48bac607-632a-4f5d-98ab-a712c03a608b)
+![image](https://github.com/user-attachments/assets/afbb46bc-832d-444b-80cc-9dee58df2024)
+
 
 
 ### Halaman API
-![WhatsApp Image 2025-04-13 at 22 27 59_82958337](https://github.com/user-attachments/assets/9c6bf16d-7618-47a5-a445-9549f0b77abd)
+![image](https://github.com/user-attachments/assets/2e2d0cf2-881c-4c72-8b3b-c495473a45ba)
+
 
 
 ### Halaman Profil
-![WhatsApp Image 2025-04-13 at 22 27 59_f6c3e1f9](https://github.com/user-attachments/assets/8de09d29-6059-4318-8f44-b1235ced36ef)
+![image](https://github.com/user-attachments/assets/21364ea0-8ed3-4344-bdf9-8871eb2ed7cd)
+
 
 
 ## Penjelasan Tiap Halaman:
-- *Halaman Counter:* Halaman Hari Libur: Halaman ini menampilkan daftar hari libur nasional Indonesia tahun 2025. Setiap entri mencakup tanggal dan keterangan mengenai jenis hari libur, seperti "Tahun Baru Masehi", "Wafat Isa Almasih", dan "Hari Ulang Tahun Kemerdekaan". 
-- *Halaman API:* Halaman ini memiliki fitur utama berupa penghitung angka yang bisa dinaikkan atau diturunkan dengan tombol "+" dan "-". Angka yang sedang ditampilkan saat ini adalah 3.
+- *Halaman Counter:* ...
+- *Halaman API:* ...Halaman ini memiliki fitur utama berupa penghitung angka yang bisa dinaikkan atau diturunkan dengan tombol "+" dan "-". Angka yang sedang ditampilkan saat ini adalah 3.
 Di bagian bawah terdapat navigasi tab dengan tiga menu:
     - Utama (halaman aktif sekarang),
     - Hari Libur,
