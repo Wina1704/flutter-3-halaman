@@ -32,13 +32,9 @@ Aplikasi ini berisi 3 halaman, yaitu:
 
 
 ## Penjelasan Tiap Halaman:
-- *Halaman Counter:* ...
-- *Halaman API:* ...Halaman ini memiliki fitur utama berupa penghitung angka yang bisa dinaikkan atau diturunkan dengan tombol "+" dan "-". Angka yang sedang ditampilkan saat ini adalah 3.
-Di bagian bawah terdapat navigasi tab dengan tiga menu:
-    - Utama (halaman aktif sekarang),
-    - Hari Libur,
-    - Profil.
-- *Halaman Profil:* ...
+- *Halaman Counter:* - *Halaman Hari Libur:* Halaman ini menampilkan daftar hari libur nasional Indonesia tahun 2025. Setiap entri mencakup tanggal dan keterangan mengenai jenis hari libur, seperti "Tahun Baru Masehi", "Wafat Isa Almasih", dan "Hari Ulang Tahun Kemerdekaan".
+- *Halaman API:* - *Halaman API:* Halaman ini memiliki fitur utama berupa penghitung angka yang bisa dinaikkan atau diturunkan dengan tombol "+" dan "-". Angka yang sedang ditampilkan saat ini adalah 0.
+- *Halaman Profil:* - *Halaman Profil:* Halaman ini menampilkan informasi profil anggota kelompok, masing-masing terdiri dari nama, tempat dan tanggal lahir (TTL), serta alamat. Terdapat tiga anggota yang ditampilkan: Raja Walidain, Putri Juliani, dan Wina Windari Kusdarniza. Setiap profil dilengkapi dengan foto dan ditata dalam kartu individu. Navigasi bawah memungkinkan perpindahan ke halaman Utama atau Hari Libur.
 
 ## Cara Menjalankan Aplikasi:
 flutter pub get flutter run
