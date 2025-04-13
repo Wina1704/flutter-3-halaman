@@ -9,7 +9,7 @@ Kelompok 6
 - Nama: Putri Juliani (4522210015)
 - Nama: Wina Windari (4522210017)
 
-## Deskripsi Aplikasi:
+## Fitur Aplikasi:
 Aplikasi ini berisi 3 halaman, yaitu:
 1. Counter sederhana.
 2. Menampilkan data dari API.
