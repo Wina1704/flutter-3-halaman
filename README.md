@@ -1,9 +1,9 @@
 # Aplikasi Flutter 3 Halaman - Kelompok 6
 
 ## Anggota Kelompok:
-- Nama: Raja Walidain, NIM: 4522210013
-- Nama: Putri Jualiani, NIM: 4522210015
-- Nama: Wina Windari, NIM: 4522210017
+- Nama: Raja Walidain (4522210013)
+- Nama: Putri Jualiani (4522210015)
+- Nama: Wina Windari (4522210017)
 
 ## Deskripsi Aplikasi:
 Aplikasi ini berisi 3 halaman, yaitu:
