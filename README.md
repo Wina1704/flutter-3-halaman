@@ -58,8 +58,7 @@ Aplikasi ini memiliki tiga fitur utama yang terbagi dalam tiga halaman berbeda:
 ## ▶️ Cara Menjalankan Aplikasi
 
 ```bash
-flutter pub get
-flutter run
+
 ```
 
 ---
