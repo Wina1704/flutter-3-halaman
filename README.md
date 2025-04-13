@@ -2,7 +2,7 @@
 
 ## Anggota Kelompok:
 - Nama: Raja Walidain, NIM: 4522210013
-- Nama: Putri Jualiani, NIM: 4522210015
+- Nama: Putri Juliani, NIM: 4522210015
 - Nama: Wina Windari, NIM: 4522210017
 
 ## Deskripsi Aplikasi:
