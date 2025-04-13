@@ -1,4 +1,4 @@
-# Aplikasi Flutter Multi-Halaman dengan Fitur Counter, REST API, dan Profil Timn
+# Aplikasi Flutter Multi-Halaman dengan Fitur Counter, REST API, dan Profil Tim
 
 ## Pendahuluan
 Flutter merupakan framework open-source yang dikembangkan oleh Google, memungkinkan programmer untuk membuat aplikasi antar platform dengan efisien dan tampilan menarik. Project ini bertujuan untuk membangun aplikasi Flutter sederhana yang terdiri dari tiga halaman utama: halaman counter, halaman penampilan data dari REST API yang menggunakan (API), dan halaman profil kelompok.
