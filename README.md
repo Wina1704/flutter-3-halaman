@@ -13,13 +13,16 @@ Aplikasi ini berisi 3 halaman, yaitu:
 
 ## Screenshot Halaman:
 ### Halaman Counter
-![Counter](screenshot/counter.png)
+![WhatsApp Image 2025-04-13 at 22 27 59_4b74f8b4](https://github.com/user-attachments/assets/48bac607-632a-4f5d-98ab-a712c03a608b)
+
 
 ### Halaman API
-![API](screenshot/api.png)
+![WhatsApp Image 2025-04-13 at 22 27 59_82958337](https://github.com/user-attachments/assets/9c6bf16d-7618-47a5-a445-9549f0b77abd)
+
 
 ### Halaman Profil
-![Profil](screenshot/profil.png)
+![WhatsApp Image 2025-04-13 at 22 27 59_f6c3e1f9](https://github.com/user-attachments/assets/8de09d29-6059-4318-8f44-b1235ced36ef)
+
 
 ## Penjelasan Tiap Halaman:
 - *Halaman Counter:* ...
